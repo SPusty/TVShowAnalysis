@@ -11,8 +11,8 @@ The dashboard helps users explore TV show trends and compare different categorie
 ## Tools & Technologies
 
 -   **Postman** -- Validated TVmaze API response
--   **Microsoft Power BI Desktop** -- Report development and publish dashboard to MyWorkspace
--   **Power Query** -- Data extraction, cleaning, and transformation
+-   **Microsoft Power BI Desktop** -- Developed report and published dashboard to MyWorkspace
+-   **Power Query** -- Extracted, cleaned, and transformed the data
 -   **DAX** -- Measures and calculated columns
 
 ## Data Source
