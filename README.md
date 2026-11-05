@@ -48,7 +48,7 @@ Main transformation steps:
 6.  Handled missing and null values
 7.  Prepared columns for reporting and analysis
 
-**Important:** A show can appear in multiple rows because it may belong to multiple genres. The unique TVmaze show ID is used to avoid counting the same show multiple times in overall show counts.
+**Note:** A show can appear in multiple rows because it may belong to multiple genres. The unique TVmaze show ID is used to avoid counting the same show multiple times in overall show counts.
 
 ## Data Model
 
@@ -72,8 +72,6 @@ Main transformation steps:
 -   Top 3 Highest-Rated Genres
 
 ### 2. Interactive Slicers
-
-Users can filter the dashboard by:
 
 -   Show Status
 -   Language
